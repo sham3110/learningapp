@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ComputeApp-1.props" />
+</Project>

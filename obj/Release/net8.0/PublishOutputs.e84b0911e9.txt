@@ -1,0 +1,7 @@
+/Users/sam/Projects/Practice/AZ-204/ComputeApp-1/bin/Publish/ComputeApp-1
+/Users/sam/Projects/Practice/AZ-204/ComputeApp-1/bin/Publish/appsettings.Development.json
+/Users/sam/Projects/Practice/AZ-204/ComputeApp-1/bin/Publish/appsettings.json
+/Users/sam/Projects/Practice/AZ-204/ComputeApp-1/bin/Publish/ComputeApp-1.dll
+/Users/sam/Projects/Practice/AZ-204/ComputeApp-1/bin/Publish/ComputeApp-1.deps.json
+/Users/sam/Projects/Practice/AZ-204/ComputeApp-1/bin/Publish/ComputeApp-1.runtimeconfig.json
+/Users/sam/Projects/Practice/AZ-204/ComputeApp-1/bin/Publish/ComputeApp-1.pdb
